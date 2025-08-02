@@ -44,4 +44,4 @@ Fokus utama proyek ini adalah pada:
 
 Proyek ini dikembangkan untuk keperluan edukatif dan sosial. Kamu bebas menggunakannya untuk studi, referensi tugas, atau pengembangan serupa dengan mencantumkan atribusi.
 
-Link Raw :
+Link Raw : https://drive.google.com/drive/folders/14F1C3BzsFwd_if8RqjZBbF-dABZumOkO?usp=sharing
